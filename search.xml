@@ -29,7 +29,7 @@
 <hr>
 <p>分割线 ：<code>---</code></p>
 <p><a href="https://github.com/H-James" target="_blank" rel="noopener">超链接</a> ：<code>[超链接](https://github.com/H-James)</code></p>
-<p><strong>图片</strong> ：<code>![图片](https://h-james.github.io/images/avatar.gif)</code><br><br/><br><img src="https://h-james.github.io/images/avatar.gif" alt="图片"><br><br/></p>
+<p><strong>图片</strong> ：<code>![图片](https://h-james.github.io/2020/04/13/Markdown/001_Markdown%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8-code01.png)</code><br><br/><br><img src="https://h-james.github.io/2020/04/13/Markdown/001_Markdown%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8-code01.png" alt="图片"><br><br/></p>
 <hr>
 <p><strong>分割线</strong> ：<code>---</code></p>
 <p><strong><em>斜字体</em></strong> ：<code>*斜字体*</code></p>
