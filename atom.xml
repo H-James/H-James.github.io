@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>James Liu&#39;s Blog</title>
+  
+  <subtitle>Recording Time, Experience and Knowledge</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://jamesliu.com/"/>
+  <updated>2020-04-13T14:12:20.413Z</updated>
+  <id>http://jamesliu.com/</id>
+  
+  <author>
+    <name>James Liu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown简单入门</title>
+    <link href="http://jamesliu.com/2020/04/13/Markdown/"/>
+    <id>http://jamesliu.com/2020/04/13/Markdown/</id>
+    <published>2020-04-13T03:29:52.000Z</published>
+    <updated>2020-04-13T14:12:20.413Z</updated>
+    
+    <content type="html"><![CDATA[<p>以下是Markdown的最基本使用方法，忘记便回来看看，也就入了门</p><a id="more"></a><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><p><code># 一级标题</code></p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p><code>## 二级标题</code></p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p><code>### 三级标题</code></p><hr><p><strong>分割线</strong>：<code>---</code></p><ul><li>列表1</li><li>列表2<ul><li>子列表1</li><li>子列表2<ul><li>孙列表1</li><li>孙列表2</li></ul></li></ul></li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">- 列表1</span><br><span class="line">- 列表2</span><br><span class="line">    - 子列表1</span><br><span class="line">    - 子列表2</span><br><span class="line">        - 孙列表1</span><br><span class="line">        - 孙列表2</span><br></pre></td></tr></table></figure><hr><p>分割线 ：<code>---</code></p><p><a href="https://github.com/H-James" target="_blank" rel="noopener">超链接</a> ：<code>[超链接](https://github.com/H-James)</code></p><p><strong>图片</strong> ：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![图片](https:&#x2F;&#x2F;h-james.github.io&#x2F;2020&#x2F;04&#x2F;13&#x2F;Markdown&#x2F;003_Markdown简单入门-rickAndmorty.png)</span><br></pre></td></tr></table></figure><br/><p><img src="https://h-james.github.io/2020/04/13/Markdown/003_Markdown%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8-rickAndmorty.png" alt="图片"></p><hr><p><strong>分割线</strong> ：<code>---</code></p><p><strong><em>斜字体</em></strong> ：<code>*斜字体*</code></p><p><strong>粗字体</strong> ：<code>**粗字体**</code></p><hr><p><strong>一行代码 ：</strong></p><p><code>&lt;html&gt;代码&lt;/html&gt;</code></p><!-- <p style="display:inline-block;">     <img src='blog/001_Markdown简单入门-code01.png' align='left' style="margin-bottom: 0px;"/></p> --><img src="/2020/04/13/Markdown/001_Markdown%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8-code01.png" class="" title="code"><p><strong>一段代码 ：</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;title&gt;代码&lt;&#x2F;title&gt;</span><br><span class="line">    &lt;&#x2F;head&gt;</span><br><span class="line">    &lt;body&gt;&lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure><!-- <p style="display:inline-block;">     <img src='blog/002_Markdown简单入门-code02.png' align='left' style="margin-bottom: 0px;"/></p> --><img src="/2020/04/13/Markdown/002_Markdown%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8-code02.png" class="" title="code"><!-- ![图片](images\Markdown简单入门-code02.png) --><hr><blockquote><p><strong>引用内容</strong><br><code>&gt; 引用内容</code></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;以下是Markdown的最基本使用方法，忘记便回来看看，也就入了门&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="前端" scheme="http://JamesLiu.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="markdown" scheme="http://JamesLiu.com/tags/markdown/"/>
+    
+  </entry>
+  
+</feed>
