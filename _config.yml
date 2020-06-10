@@ -101,6 +101,7 @@ deploy:
   type: git
   repository: git@github.com:H-James/H-James.github.io.git
   branch: master
+  message: Blog
 
 search:
   path: search.xml
